@@ -1,5 +1,5 @@
 body {background-color: seashell;}
-button {
+font button {
     background-color: midnightblue;
     color: white;
     border: 1px solid black;
@@ -15,7 +15,8 @@ form button {
     margin: 10px;
 }
 
-form textarea {
+form textarea,
+font input {
     height: 100px;
     font-family: sans-serif;
     line-height: 130%;
