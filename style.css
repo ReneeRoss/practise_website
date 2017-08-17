@@ -2,4 +2,13 @@ body {background-color: seashell;}
 button {
     background-color: midnightblue;
     color: white;
+    border: 1px solid black;
+}
+
+form input,
+form textarea,
+form button {
+    display: block;
+    width: 100%;
+    max-width: 300px;
 }
