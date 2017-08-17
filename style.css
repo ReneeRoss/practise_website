@@ -14,3 +14,9 @@ form button {
     padding: 6px 10px;
     margin: 10px 0;
 }
+
+form textarea {
+    height: 100px;
+    font-family: sans-serif;
+    line-height: 130%;
+}
